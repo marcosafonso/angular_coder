@@ -1,19 +1,34 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Caneta Bic",
-            "price": 5.89
-        },
-        {
-            "id": 2,
-            "name": "PlayStation 4",
-            "price": 2000
-        },
-        {
-            "id": 3,
-            "name": "MacBook",
-            "price": 5000
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "PlayStation 4",
+      "price": 2000
+    },
+    {
+      "id": 3,
+      "name": "MacBook",
+      "price": 5000
+    },
+    {
+      "name": "Producto de teste",
+      "price": 258.98,
+      "id": 4
+    },
+    {
+      "name": "Nintendo 3DS",
+      "price": "1299",
+      "id": 5
+    },
+    {
+      "name": "Ipad Pro",
+      "price": "5999.99",
+      "id": 6
+    }
+  ]
 }
