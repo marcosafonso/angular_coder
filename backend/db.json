@@ -7,12 +7,12 @@
     },
     {
       "id": 2,
-      "name": "PlayStation 4",
-      "price": 2000
+      "name": "PlayStation 4 Pro",
+      "price": "2500"
     },
     {
       "id": 3,
-      "name": "MacBook",
+      "name": "MacBook Top of Top",
       "price": 5000
     },
     {
